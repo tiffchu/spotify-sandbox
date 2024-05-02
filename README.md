@@ -2,8 +2,8 @@
 
 Data Dictionary:
 
-Acousticness - Indicates how acoustic the track is, 0.0 to 1.0. <br>
-Danceabilit - Represents how suitable a track is for dancing, 0.0 to 1.0. <br>
+Acousticness - Indicates how acoustic the track is, 0.0 to 1.0, higher is more acoustic. <br>
+Danceabilit - Represents how suitable a track is for dancing, 0.0 to 1.0, higher is more danceable. <br>
 Energy - Measures intensity and activity of the track, 0.0 to 1.0. <br>
 Instrumentalness - Assesses the likelihood of the track containing no vocals. 0.0 to 1.0, higher is more instrumental. <br>
 Liveness - Indicates the presence of a live audience in the recording, 0.0 to 1.0, 1.0 being live performance. <br>
